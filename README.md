@@ -1,2 +1,2 @@
 # Brick Breaker
- Game
+ Ping Pong Game
